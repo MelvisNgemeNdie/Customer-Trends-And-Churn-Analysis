@@ -68,10 +68,8 @@ Rising churn among **month-to-month contracts** and **fiber optic customers** cr
 ---
 
 ### Dashboard Preview
-*(Add a screenshot of your Tableau churn dashboards here )*  
 
-[![View Tableau Dashboard](https://img.shields.io/badge/View%20Customer%20Trends%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/YourTrendsDashboardLink)  
-[![View Tableau Dashboard](https://img.shields.io/badge/View%20Customer%20Churn%20Dashboard-Tableau-blue?logo=tableau)](https://public.tableau.com/views/YourChurnDashboardLink)  
+![Customer Dashboard](Customer.png)
 
 ---
 
