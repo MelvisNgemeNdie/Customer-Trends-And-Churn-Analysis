@@ -4,7 +4,7 @@ This project combines **two analyses (2a & 2b)** focused on **customer retention
 The analyses explored **customer demographics, payment methods, contract types, and service attributes** to identify **churn drivers** and recommend **strategies to improve retention and revenue stability**.  
 
 ---
-### Project 2a: Customer Trends Analysis
+## Project 2a: Customer Trends Analysis
 ### Project Overview 
 Analyzed **customer demographics, account details, and subscribed services** to uncover key churn predictors.  
 The focus was on how **subscription duration** and **payment methods** impacted customer retention.  
