@@ -29,31 +29,18 @@ High churn rates among **newer subscribers** and customers using **specific paym
 ---
 
 ## Project 2b: Customer Churn Analysis
----
 ### Project Overview
 Focused on **internet service type, contract length, and payment methods** to assess customer churn and long-term retention risks. 
-
----
-
 ###  The Problem
 Rising churn among **month-to-month contracts** and **fiber optic customers** created risks to long-term **revenue stability**. 
-
----
-
 ### Insights
 -  **Month-to-Month Contracts**: Highest churn rate at **43%**.  
 -  **Fiber Optic Customers**: Churn rate at **41.9%**, indicating service dissatisfaction.  
 -  **Longer contracts** correlated with **lower churn** and more stable revenue streams.
-
----
-
 ###  Recommendations
 -  Increase sales of **one-year and two-year contracts** by at least **5% each**.  
 -  Expand **technical support capacity** for fiber optic customers, aiming to **reduce support tickets by $0.50 per customer**.  
 -  Offer **loyalty incentives** for short-term contract customers to switch to longer terms.  
-
----
-
 ### Skills Used
 - **Data Understanding** – Explored customer attributes and churn data  
 - **Data Cleaning** – Handled missing and inconsistent values  
@@ -62,18 +49,10 @@ Rising churn among **month-to-month contracts** and **fiber optic customers** cr
 - **Data Visualization** – Created Tableau dashboards for churn trends  
 - **Dashboard Development** – Designed KPI tracking dashboards  
 - **Data Storytelling** – Presented actionable strategies to leadership  
-
----
-
 ### Dashboard Preview
-
 ![Customer Dashboard](Customer.png)
-
----
-
 ## Key Takeaway
 The analyses revealed that **short-term contracts**, **fiber optic customers**, **new subscribers**, and **electronic check users** were at the **highest churn risk**.  
-
 By targeting **payment methods**, **subscription tenure**, and **contract length**, *Call Now Customer Service Company* can **strengthen retention, stabilize revenue, and build long-term customer loyalty**. 
 
 ---
