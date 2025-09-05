@@ -19,11 +19,11 @@ High churn rates among **newer subscribers** and customers using **specific paym
 -  Launch **targeted marketing campaigns** for **first-year subscribers** to reduce churn risk.  
 -  Educate customers on more **reliable payment methods** (e.g., credit card, bank transfer).
 ### Skills Highlighted
-- SQL (churn modeling queries)  
-- Tableau (customer trend dashboards)  
-- Data Cleaning & Feature Engineering  
-- Churn Prediction & Risk Segmentation  
-- Business Intelligence Storytelling  
+- SQL (churn modeling queries).
+- Tableau (customer trend dashboards).  
+- Data Cleaning & Feature Engineering.  
+- Churn Prediction & Risk Segmentation.  
+- Business Intelligence Storytelling.  
 
 ---
 ## Project 2b: Customer Churn Analysis
@@ -40,13 +40,13 @@ Rising churn among **month-to-month contracts** and **fiber optic customers** cr
 -  Expand **technical support capacity** for fiber optic customers, aiming to **reduce support tickets by $0.50 per customer**.  
 -  Offer **loyalty incentives** for short-term contract customers to switch to longer terms.  
 ### Skills Used
-- **Data Understanding** – Explored customer attributes and churn data  
-- **Data Cleaning** – Handled missing and inconsistent values  
-- **Data Modelling** – Built churn driver models  
-- **Data Analysis** – Identified high-risk churn segments  
-- **Data Visualization** – Created Tableau dashboards for churn trends  
-- **Dashboard Development** – Designed KPI tracking dashboards  
-- **Data Storytelling** – Presented actionable strategies to leadership  
+- **Data Understanding** – Explored customer attributes and churn data.  
+- **Data Cleaning** – Handled missing and inconsistent values.  
+- **Data Modelling** – Built churn driver models.  
+- **Data Analysis** – Identified high-risk churn segments.  
+- **Data Visualization** – Created Tableau dashboards for churn trends.  
+- **Dashboard Development** – Designed KPI tracking dashboards.  
+- **Data Storytelling** – Presented actionable strategies to leadership.  
 ### Dashboard Preview
 ![Customer Dashboard](Customer.png)
 ## Key Takeaway
