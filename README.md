@@ -1,26 +1,19 @@
 ## Customer Trends And Churn Analysis
-
 ### Customer Retention Analysis (Call Now Customer Service Company)
-
 This project combines **two analyses (2a & 2b)** focused on **customer retention and churn** for *Call Now Customer Service Company*.  
-
 The analyses explored **customer demographics, payment methods, contract types, and service attributes** to identify **churn drivers** and recommend **strategies to improve retention and revenue stability**.  
 
 ---
-
 ### Project 2a: Customer Trends Analysis
 ### Project Overview 
 Analyzed **customer demographics, account details, and subscribed services** to uncover key churn predictors.  
 The focus was on how **subscription duration** and **payment methods** impacted customer retention.  
-
 ###  The Problem
 High churn rates among **newer subscribers** and customers using **specific payment methods** were negatively impacting retention and long-term revenue growth.  
-
 ### Insights
 -  **Subscribers with < 1 year tenure** had the highest churn rate at **53%**.  
 -  **Electronic check payments** showed the highest churn at **57%**.  
 -  **Subscription duration** and **payment method** were identified as **primary churn predictors**.  
-
 ###  Recommendations
 -  Promote **automatic payments** with an **annual 5% incentive** to boost retention.  
 -  Launch **targeted marketing campaigns** for **first-year subscribers** to reduce churn risk.  
@@ -31,10 +24,8 @@ High churn rates among **newer subscribers** and customers using **specific paym
 - Data Cleaning & Feature Engineering  
 - Churn Prediction & Risk Segmentation  
 - Business Intelligence Storytelling  
-    
 
 ---
-
 ## Project 2b: Customer Churn Analysis
 ### Project Overview
 Focused on **internet service type, contract length, and payment methods** to assess customer churn and long-term retention risks. 
