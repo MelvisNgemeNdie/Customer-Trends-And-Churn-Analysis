@@ -9,7 +9,6 @@ The analyses explored **customer demographics, payment methods, contract types, 
 ---
 
 ### Project 2a: Customer Trends Analysis
-
 ### Project Overview 
 Analyzed **customer demographics, account details, and subscribed services** to uncover key churn predictors.  
 The focus was on how **subscription duration** and **payment methods** impacted customer retention.  
@@ -31,7 +30,6 @@ High churn rates among **newer subscribers** and customers using **specific paym
 
 ## Project 2b: Customer Churn Analysis
 ---
-
 ### Project Overview
 Focused on **internet service type, contract length, and payment methods** to assess customer churn and long-term retention risks. 
 
