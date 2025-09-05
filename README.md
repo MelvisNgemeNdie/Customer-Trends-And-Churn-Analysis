@@ -24,7 +24,14 @@ High churn rates among **newer subscribers** and customers using **specific paym
 ###  Recommendations
 -  Promote **automatic payments** with an **annual 5% incentive** to boost retention.  
 -  Launch **targeted marketing campaigns** for **first-year subscribers** to reduce churn risk.  
--  Educate customers on more **reliable payment methods** (e.g., credit card, bank transfer).  
+-  Educate customers on more **reliable payment methods** (e.g., credit card, bank transfer).
+### Skills Highlighted
+- SQL (churn modeling queries)  
+- Tableau (customer trend dashboards)  
+- Data Cleaning & Feature Engineering  
+- Churn Prediction & Risk Segmentation  
+- Business Intelligence Storytelling  
+    
 
 ---
 
